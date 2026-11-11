@@ -14,7 +14,7 @@ reproducible runs, honest statistics, and CI-friendly quality gates.
 ## Quick start
 
 ```bash
-git clone <this repository> && cd EvalBench
+git clone https://github.com/C123clay/EvalBench.git && cd EvalBench
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
