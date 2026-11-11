@@ -1,0 +1,9 @@
+[
+  {"pattern": "capital of Japan", "response": "The capital of Japan is Tokyo."},
+  {"pattern": "capital of Canada", "response": "Toronto"},
+  {"pattern": "capital of Australia", "response": "Canberra"},
+  {"pattern": "Red Planet", "response": "Mars"},
+  {"pattern": "chemical symbol for gold", "response": "Au"},
+  {"pattern": "17 multiplied by 6", "response": "17 x 6 = 102"},
+  {"pattern": "seconds are in one hour", "response": "There are 3,600 seconds in an hour."}
+]

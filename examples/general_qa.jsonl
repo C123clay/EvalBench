@@ -1,0 +1,30 @@
+{"id": "arith-001", "prompt": "What is 17 multiplied by 6?", "reference": "102", "tags": ["arithmetic"]}
+{"id": "arith-002", "prompt": "What is 144 divided by 12?", "reference": "12", "tags": ["arithmetic"]}
+{"id": "arith-003", "prompt": "What is 2 to the power of 10?", "reference": "1024", "tags": ["arithmetic"]}
+{"id": "arith-004", "prompt": "What is the sum of the first ten positive integers?", "reference": "55", "tags": ["arithmetic"]}
+{"id": "arith-005", "prompt": "What is 15 percent of 80?", "reference": "12", "tags": ["arithmetic"]}
+{"id": "arith-006", "prompt": "What is the square root of 169?", "reference": "13", "tags": ["arithmetic"]}
+{"id": "arith-007", "prompt": "What is 1000 minus 387?", "reference": "613", "tags": ["arithmetic"]}
+{"id": "arith-008", "prompt": "How many seconds are in one hour?", "reference": "3600", "tags": ["arithmetic", "units"]}
+{"id": "units-001", "prompt": "How many centimeters are in a meter?", "reference": "100", "tags": ["units"]}
+{"id": "units-002", "prompt": "How many minutes are in a full day?", "reference": "1440", "tags": ["units"]}
+{"id": "units-003", "prompt": "At sea level, water boils at how many degrees Celsius?", "reference": "100", "tags": ["units", "science"]}
+{"id": "units-004", "prompt": "How many bytes are in a kibibyte?", "reference": "1024", "tags": ["units", "computing"]}
+{"id": "geo-001", "prompt": "What is the capital of Japan?", "reference": "Tokyo", "tags": ["geography"]}
+{"id": "geo-002", "prompt": "What is the capital of Canada?", "reference": "Ottawa", "tags": ["geography"]}
+{"id": "geo-003", "prompt": "Which ocean lies between Africa and Australia?", "reference": ["Indian Ocean", "the Indian Ocean"], "tags": ["geography"]}
+{"id": "geo-004", "prompt": "What is the longest river in South America?", "reference": ["Amazon", "the Amazon River"], "tags": ["geography"]}
+{"id": "geo-005", "prompt": "On which continent is Kenya?", "reference": "Africa", "tags": ["geography"]}
+{"id": "geo-006", "prompt": "What is the capital of Australia?", "reference": "Canberra", "tags": ["geography"]}
+{"id": "sci-001", "prompt": "What is the chemical symbol for gold?", "reference": "Au", "tags": ["science"]}
+{"id": "sci-002", "prompt": "Which planet is known as the Red Planet?", "reference": "Mars", "tags": ["science"]}
+{"id": "sci-003", "prompt": "What gas do plants absorb from the air for photosynthesis?", "reference": ["carbon dioxide", "CO2"], "tags": ["science"]}
+{"id": "sci-004", "prompt": "How many chromosomes does a typical human cell contain?", "reference": "46", "tags": ["science"]}
+{"id": "sci-005", "prompt": "What is the hardest naturally occurring mineral?", "reference": "diamond", "tags": ["science"]}
+{"id": "sci-006", "prompt": "What part of the cell contains most of its genetic material?", "reference": ["the nucleus", "nucleus"], "tags": ["science"]}
+{"id": "comp-001", "prompt": "In binary, what is the decimal number 13?", "reference": "1101", "tags": ["computing"]}
+{"id": "comp-002", "prompt": "What does the acronym CPU stand for?", "reference": "central processing unit", "tags": ["computing"]}
+{"id": "comp-003", "prompt": "Which HTTP status code means 'Not Found'?", "reference": "404", "tags": ["computing"]}
+{"id": "comp-004", "prompt": "What data structure follows last-in, first-out order?", "reference": ["a stack", "stack"], "tags": ["computing"]}
+{"id": "lang-001", "prompt": "What is the plural of 'mouse' when referring to the animal?", "reference": "mice", "tags": ["language"]}
+{"id": "lang-002", "prompt": "What is the opposite of 'ancient'?", "reference": ["modern", "new"], "tags": ["language"]}

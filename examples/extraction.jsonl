@@ -1,0 +1,6 @@
+{"id": "ex-001", "prompt": "Extract the name and age as JSON: 'Maria is 34 years old.'", "reference": "{\"name\": \"Maria\", \"age\": 34}", "tags": ["extraction"]}
+{"id": "ex-002", "prompt": "Extract the city and country as JSON: 'The conference is in Lyon, France.'", "reference": "{\"city\": \"Lyon\", \"country\": \"France\"}", "tags": ["extraction"]}
+{"id": "ex-003", "prompt": "Extract the product and price as JSON: 'The lamp costs 49.99 dollars.'", "reference": "{\"product\": \"lamp\", \"price\": 49.99}", "tags": ["extraction"]}
+{"id": "ex-004", "prompt": "Extract the list of colors as JSON: 'The flag uses red, white and blue.'", "reference": "{\"colors\": [\"red\", \"white\", \"blue\"]}", "tags": ["extraction"]}
+{"id": "ex-005", "prompt": "Extract the date parts as JSON: 'Launch day is 2027-03-14.'", "reference": "{\"year\": 2027, \"month\": 3, \"day\": 14}", "tags": ["extraction"]}
+{"id": "ex-006", "prompt": "Extract the sender and subject as JSON: 'From: Lee. Subject: Quarterly plan.'", "reference": "{\"sender\": \"Lee\", \"subject\": \"Quarterly plan\"}", "tags": ["extraction"]}
